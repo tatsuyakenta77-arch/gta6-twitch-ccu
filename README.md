@@ -31,5 +31,7 @@ cases (no usable comparables, tiny hour-1 print).
 ## Score
 
 Pinball loss on the log scale, mean over every scored hour and level; lower
-is better. See `EVALUATION.md` for the locally measured practice loss versus
-the house baseline.
+is better. Measured locally on the kit's four practice cases (see
+`EVALUATION.md` for the full method and numbers): **0.193 mean loss vs the
+house baseline's 0.387** — a 50% improvement, beating the baseline on all
+four cases. Typical miss 36.5% (baseline 90.2%), 90% coverage 0.924.

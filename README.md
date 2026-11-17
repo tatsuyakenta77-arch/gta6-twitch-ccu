@@ -1,4 +1,8 @@
-# GTA VI launch-day Twitch CCU forecaster
+# gta6-twitch-ccu
+
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/tatsuyakenta77-arch/gta6-twitch-ccu/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/tatsuyakenta77-arch/gta6-twitch-ccu/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 
 Entry for make.fun's `gta6-twitch-ccu-forecast-01` bounty: forecast, hour by
 hour, how many people watch Grand Theft Auto VI live on Twitch over the 24
@@ -35,3 +39,7 @@ is better. Measured locally on the kit's four practice cases (see
 `EVALUATION.md` for the full method and numbers): **0.193 mean loss vs the
 house baseline's 0.387** — a 50% improvement, beating the baseline on all
 four cases. Typical miss 36.5% (baseline 90.2%), 90% coverage 0.924.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
